@@ -1,5 +1,6 @@
 Group Members: Diana Randall and Camille Larson
-This program asks the user for their name and age. Then it repeats their name and tells them how old they will be in ten years.
+
+<br>This program asks the user for their name and age. Then it repeats their name and tells them how old they will be in ten years.
 
 To install our software you will first install jupyter hub and jupyter notebook at this link: https://jupyter.org/install, this is the python IDE we used to make this project. You should follow the steps posted on the official download site linked above. :) Next, you will fork our repository so you will have your own b=version to play with, to do this we will go into github, make sure our lab is pulled up and click fork. To install our source code from github the way we use is to first open a terminal in jupyter hub by clicking the "+" then under other select terminal. Now we are going to type in "git clone https://github.com/YOUR-USERNAME/week6_lab.git" (without the quotation marks), this clones your forked version of our repository into jupyterhub. Now once you click into our .pynb file you can run it by clicking the play button on the top toolbar
 
